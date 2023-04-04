@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScans;
 import onlus.manager.springbootvuejs.hibernate.service.SocioService;
 
 // testing new master branch
-@SpringBootApplication // another commit again in dev
+@SpringBootApplication // another commit again in dev another time
 public class SpringBootVuejsApplication {
 
 	public static void main(String[] args) {
