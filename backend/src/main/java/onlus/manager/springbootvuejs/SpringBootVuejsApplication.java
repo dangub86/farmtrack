@@ -7,6 +7,7 @@ import org.springframework.context.annotation.ComponentScans;
 
 import onlus.manager.springbootvuejs.hibernate.service.SocioService;
 
+// testing new master branch
 @SpringBootApplication
 public class SpringBootVuejsApplication {
 
